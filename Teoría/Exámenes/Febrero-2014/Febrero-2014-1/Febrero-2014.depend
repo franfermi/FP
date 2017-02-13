@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485044418 source:/home/francisco/Escritorio/FP/Teoría/Exámenes/Febrero-2014/main.cpp
+	<iostream>
+	<vector>
+
