@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479678708 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 8/Ejer08-Sesion8/gaussiana_CDF.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+

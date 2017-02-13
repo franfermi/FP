@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475080893 source:c:\users\francisco fernández\desktop\fp\prácticas\sesión 1\ejer03-sesion1\ejer03_area_longitud_circunferencia.cpp
+	<iostream>
+	<cmath>
+

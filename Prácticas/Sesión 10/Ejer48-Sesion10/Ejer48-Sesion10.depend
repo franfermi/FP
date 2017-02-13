@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480850606 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 10/Ejer48-Sesion10/clase_coordeandas.cpp
+	<iostream>
+	<cmath>
+

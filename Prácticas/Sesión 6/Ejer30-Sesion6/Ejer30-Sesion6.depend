@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478357810 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 6/Ejer30-Sesion6/pinta_digitos_aleatorios.cpp
+	<iostream>
+	<cmath>
+

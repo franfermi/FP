@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477477943 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 5/Ejer22-Sesion5/gaussiana_bucles.cpp
+	<iostream>
+	<cmath>
+

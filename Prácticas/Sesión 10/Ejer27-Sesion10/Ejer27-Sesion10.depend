@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480762018 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 10/Ejer27-Sesion10/clase_gaussiana.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+

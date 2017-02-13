@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479062578 source:/home/francisco/Escritorio/FP/Prácticas/Sesión 7/Ejer48-Sesion7/gaussiana_menu.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+

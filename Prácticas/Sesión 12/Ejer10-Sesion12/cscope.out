@@ -1,0 +1,241 @@
+cscope 15 $HOME/Escritorio/FP/PrÃ¡cticas/SesiÃ³n 12/Ejer10-Sesion12               0000001323
+	@/home/francisco/Escritorio/FP/PrÃ¡cticas/SesiÃ³n 12/Ejer10-Sesion12/moda_clase.cpp
+
+1 
+	~<io¡»am
+>
+
+3 
+usšg
+ 
+Çme¥aû
+ 
+	g¡d
+;
+
+5 
+	sF»cu’cŸC¬aù”
+{
+
+6 
+	mÿ¿ù”
+;
+
+7 
+	mäecu’cŸ
+;
+
+10 
+	$maš
+()
+
+12 cÚ¡ 
+TERMINADOR
+ = '#';
+
+13 cÚ¡ 
+TAMANIO
+ = 100;
+
+14 
+veùÜ
+[
+TAMANIO
+], 
+veùÜ_aux
+[TAMANIO];
+
+15 
+ÿ¿ù”
+, 
+ÿ¿ù”_moda
+;
+
+16 
+tÙ®_utizados
+;
+
+17 
+»³ticiÚes
+, 
+mayÜ_äecu’cŸ
+;
+
+19 
+F»cu’cŸC¬aù”
+ 
+äeC¬
+;
+
+21 
+tÙ®_utizados
+ = 0;
+
+22 
+mayÜ_äecu’cŸ
+ = 0;
+
+23 
+»³ticiÚes
+ = 0;
+
+24 
+ÿ¿ù”
+ = 
+cš
+.
+	`g‘
+();
+
+27 
+ÿ¿ù”
+ !ğ
+TERMINADOR
+ && 
+tÙ®_utizados
+ < 
+TAMANIO
+){
+
+28 
+veùÜ
+[
+tÙ®_utizados
+] = 
+ÿ¿ù”
+;
+
+29 
+tÙ®_utizados
+++;
+
+30 
+ÿ¿ù”
+ = 
+cš
+.
+	`g‘
+();
+
+34 
+i
+=0; i<
+tÙ®_utizados
+; i++){
+
+36 
+j
+=0; j<
+tÙ®_utizados
+; j++){
+
+38 if(
+veùÜ
+[
+i
+] =ğveùÜ[
+j
+]){
+
+39 
+»³ticiÚes
+++;
+
+40 
+äeC¬
+.
+ÿ¿ù”
+ = 
+veùÜ
+[
+i
+];
+
+41 
+äeC¬
+.
+äecu’cŸ
+ = 
+»³ticiÚes
+;
+
+43 if(
+»³ticiÚes
+ > 
+mayÜ_äecu’cŸ
+){
+
+44 
+mayÜ_äecu’cŸ
+ = 
+»³ticiÚes
+;
+
+45 
+äeC¬
+.
+ÿ¿ù”
+ = 
+veùÜ
+[
+i
+];
+
+46 
+äeC¬
+.
+äecu’cŸ
+ = 
+mayÜ_äecu’cŸ
+;
+
+49 
+»³ticiÚes
+=0;
+
+52 
+i
+=0; i<
+tÙ®_utizados
+; i++)
+
+53 
+veùÜ_aux
+[
+i
+] = 
+veùÜ
+[i];
+
+54 
+tÙ®_u
+
+
+55 
+cout
+ << "L¨mod¨e Ï†‘¿ '" << 
+äeC¬
+.
+ÿ¿ù”
+ << "' con unotal de "
+
+56 << 
+äeC¬
+.
+äecu’cŸ
+ << "‡·riciÚes." << 
+’dl
+;
+
+57 
+	}
+}
+
+	@
+1
+.
+1
+/usr/include
+1
+83
+/home/francisco/Escritorio/FP/PrÃ¡cticas/SesiÃ³n 12/Ejer10-Sesion12/moda_clase.cpp
